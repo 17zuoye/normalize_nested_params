@@ -1,0 +1,10 @@
+{
+  "name": "normalize_nested_params",
+  "version": "0.0.1",
+  "main": "normalize_nested_params.js",
+  "dependencies"  : {
+    "underscore"  : ">=1.5.0"
+  },
+  "ignore" : ["docs", "test", "*.yml", "*.map",
+              "CNAME", "index.html", "favicon.ico", "CONTRIBUTING.md"]
+}

@@ -1,0 +1,22 @@
+{
+  "name"          : "normalize_nested_params",
+  "description"   : "Normalize nested params in JavaScript",
+  "url"           : "https://github.com/mvj3/normalize_nested_params",
+  "keywords"      : ["normalize", "nested", "params"],
+  "author"        : "David Chen <mvjome@gmail.com>",
+  "dependencies"  : {
+    "underscore"  : ">=1.5.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "doc": "docco normalize_nested_params.js",
+  },
+  "main"          : "normalize_nested_params.js",
+  "version"       : "0.0.1",
+  "license"       : "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvj3/normalize_nested_params.git"
+  }
+}
