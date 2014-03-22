@@ -14,3 +14,8 @@ _.normalize_nested_params(obj, "contents[][style]")         #=> 'bold'
 See more examples in Test Cases.
 
 Run tests, add "debug_normalize_nested_params" to location search string
+
+
+Copyright
+--------------------------------
+MIT. David Chen at 17zuoye.
