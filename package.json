@@ -10,7 +10,7 @@
   "devDependencies": {
   },
   "scripts": {
-    "doc": "docco normalize_nested_params.js",
+    "doc": "docco normalize_nested_params.js"
   },
   "main"          : "normalize_nested_params.js",
   "version"       : "0.0.1",
