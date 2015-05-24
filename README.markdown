@@ -1,5 +1,6 @@
 normalize_nested_params.js
 ================================
+[![Build Status](https://img.shields.io/travis/17zuoye/normalize_nested_params/master.svg?style=flat)](https://travis-ci.org/17zuoye/normalize_nested_params)
 
 Original idea comes from Rack::Utils#normalize_nested_params, see it at http://rack.rubyforge.org/doc/Rack/Utils.html
 
